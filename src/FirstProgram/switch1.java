@@ -29,9 +29,10 @@ package FirstProgram;
 	break;
 	case 12:System.out.println("dec");
 	break;
-	default:System.out.println("invalid");
+	default:System.out.println("invalid option");
 		break;
-		//
+		///
+	
 	}
 	}
 	}
